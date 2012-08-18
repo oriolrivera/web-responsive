@@ -1,0 +1,35 @@
+
+
+/************************tamaño de las imagenes********************************/
+.theme-default #slider {
+    margin:0px auto 0 auto;
+    *width:850px; /* Make sure your images are the same size */
+    *height:300px; /* Make sure your images are the same size */
+   
+     width:100%;
+     height: 100%;
+}
+
+
+@media screen and (max-width:1000){
+	
+	.theme-default #slider{
+		
+		height:100%;
+		
+		
+	}
+	
+}
+
+.theme-pascal.slider-wrapper,
+.theme-orman.slider-wrapper {
+    margin-top:150px;
+}
+
+/*====================*/
+/*=== Other Styles ===*/
+/*====================*/
+.clear {
+	clear:both;
+}

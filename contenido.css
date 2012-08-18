@@ -1,0 +1,55 @@
+#titulo{
+	
+	
+	margin-bottom:20px;
+	display: block;
+	
+}
+
+#autor{
+	
+	float:right;
+	font-size:80%;
+	clear:both;
+	clear: both;
+	margin-bottom:10px;
+	
+}
+
+
+#fecha{
+	
+	
+	display: block;
+	clear:both;
+	font-size:80%;
+	margin-bottom:20px;
+	float:right;
+	width:35%;
+	
+	
+	
+	
+}
+
+#detalle{
+	
+	text-align:justify;
+	clear:both;
+	margin-bottom: 20px;
+	
+}
+
+#leer_mas{
+	
+	background-color:blue;
+	float:left;
+}
+
+#comentario{
+	
+	background-color:white;
+	float:right;
+}
+
+
